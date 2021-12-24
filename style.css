@@ -52,7 +52,7 @@ body button:hover{
 
 @media screen and (max-width: 400px) {
     body .color_info{
-        font-size: 28px;
+        font-size: 25px;
         font-weight: bold;
         text-transform: capitalize;
         background-color: #fff;
